@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-text to be
-=======
 text to be merged
->>>>>>> b
-text to be merged 
